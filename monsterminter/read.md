@@ -16,9 +16,7 @@ docker run \
     phalconphp/ubuntu-16.04:php-7.2
 
 current files
-produce /monsterminter this will mount to /app which is configured already
-produce/monsterminter/docker/nginx.conf  which will be mount to /etc/nginx/sites-enabled
-
+produced /monsterminter this will mount to /app which is configured already 
 reference https://hub.docker.com/r/phalconphp/ubuntu-16.04 
 
  
