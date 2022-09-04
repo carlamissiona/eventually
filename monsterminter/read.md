@@ -54,8 +54,8 @@ docker run \
     -p 8081:80 \
     -v $(pwd):/app \
     -v $(pwd)/docker/nginx.conf:/etc/nginx/sites-enabled/default:ro \
-    phalconphp/ubuntu-16.04:php-7.2
+    phalconphp/ubuntu-16.04:php-7.2;
 
-
+5465265d4c5d
 
 ### add composer.json
